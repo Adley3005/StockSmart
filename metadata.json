@@ -1,0 +1,6 @@
+{
+  "name": "StockSmart - Gestión de Bodegas y Minimarkets",
+  "description": "Asistente digital de inventarios, ventas rápidas de mostrador y control de fiados para bodegas y minimarkets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
